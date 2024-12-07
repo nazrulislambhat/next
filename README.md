@@ -1,9 +1,20 @@
-## Next.js App Router Course - Starter
+# Project Status
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This section tracks the current progress of the project. You can update the status as needed.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Status
 
-Status:
+### Done
+- Chapter 1
+- Chapter 2
+- Chapter 3
 
-Start CHapter 4
+### Current Learning
+- Chapter 4
+
+### Pending
+- Chapter 5 to Chapter 16
+
+---
+
+Feel free to update this README file as you progress through the chapters. Simply edit the corresponding sections to reflect your progress!
